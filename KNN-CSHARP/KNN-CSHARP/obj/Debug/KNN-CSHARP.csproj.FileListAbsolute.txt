@@ -1,0 +1,7 @@
+C:\Users\Fynz\Desktop\SEM-4\MLE-KNN\knn-classifier\KNN-CSHARP\KNN-CSHARP\bin\Debug\KNN-CSHARP.exe.config
+C:\Users\Fynz\Desktop\SEM-4\MLE-KNN\knn-classifier\KNN-CSHARP\KNN-CSHARP\bin\Debug\KNN-CSHARP.exe
+C:\Users\Fynz\Desktop\SEM-4\MLE-KNN\knn-classifier\KNN-CSHARP\KNN-CSHARP\bin\Debug\KNN-CSHARP.pdb
+C:\Users\Fynz\Desktop\SEM-4\MLE-KNN\knn-classifier\KNN-CSHARP\KNN-CSHARP\obj\Debug\KNN-CSHARP.csproj.CoreCompileInputs.cache
+C:\Users\Fynz\Desktop\SEM-4\MLE-KNN\knn-classifier\KNN-CSHARP\KNN-CSHARP\obj\Debug\KNN-CSHARP.exe
+C:\Users\Fynz\Desktop\SEM-4\MLE-KNN\knn-classifier\KNN-CSHARP\KNN-CSHARP\obj\Debug\KNN-CSHARP.pdb
+C:\Users\Fynz\Desktop\SEM-4\MLE-KNN\knn-classifier\KNN-CSHARP\KNN-CSHARP\obj\Debug\KNN-CSHARP.csprojResolveAssemblyReference.cache
