@@ -142,7 +142,8 @@ namespace KNN_CSHARP
                     classification[j, 1] = mostCommon;
                 }
 
-                var confusion = new int[3][];
+                //Make use of jagged Array -> Thank you Microsoft cuz' this looks a hundret times more ugly than java
+                int[][] confusion = new int[3][] {new int[2], new int[2], new int[2]};
 
                 for (int k = 0; k < 3; k++)
                 {
@@ -152,7 +153,6 @@ namespace KNN_CSHARP
                     }
                 }
 
-               /* TODO: This needs to be fixed in order to get the confusion Matrix -> Foreach through multidimensional array
                 foreach (int[] x in classification)
                 {
                     switch (x[0])
@@ -170,7 +170,6 @@ namespace KNN_CSHARP
                             break;
                     }
                 }
-                */
 
                 double right = 0;
                 double wrong = 0;
